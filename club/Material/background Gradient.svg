@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3760.82 -243.263 925.883 968.549">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        opacity: 0.11;
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ed5f9"/>
+      <stop offset="1" stop-color="#67a5ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.859" y1="0.212" x2="0.079" y2="0.838" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_175" data-name="Group 175" transform="translate(2557 8)">
+    <path id="Path_140" data-name="Path 140" class="cls-1" d="M64.306,21.218c-100.434,112.773-94.5,220.4-8.18,271.508S234.089,357.917,212.96,438.968,160.108,609.888,253.5,696.235,428.951,778.05,428.951,778.05L658.844,298.456Z" transform="translate(1203.752 7.946) rotate(-25)"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-2" cx="183" cy="183" r="183" transform="translate(1416 155)"/>
+  </g>
+</svg>

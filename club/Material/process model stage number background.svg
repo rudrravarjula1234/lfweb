@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2767.419 3831.658 121.988 121.988">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #64aafe;
+      }
+
+      .cls-2 {
+        fill: #5cbafc;
+      }
+
+      .cls-3 {
+        fill: #51cffa;
+      }
+    </style>
+  </defs>
+  <g id="process_model_stage_number_background" data-name="process model stage number background" transform="translate(2557 8)">
+    <path id="Path_383" data-name="Path 383" class="cls-1" d="M19.108,86.262A19.1,19.1,0,0,1,0,67.154V19.108A19.1,19.1,0,0,1,19.108,0H67.147A19.1,19.1,0,0,1,86.255,19.108V67.147A19.1,19.1,0,0,1,67.147,86.255H19.108Z" transform="translate(332.407 3884.655) rotate(135)"/>
+    <path id="Path_387" data-name="Path 387" class="cls-2" d="M16.386,73.971A16.379,16.379,0,0,1,0,57.586v-41.2A16.379,16.379,0,0,1,16.386,0H57.58A16.379,16.379,0,0,1,73.966,16.386V57.58A16.379,16.379,0,0,1,57.58,73.966H16.386Z" transform="translate(271.584 3832.593) rotate(45)"/>
+    <path id="Path_391" data-name="Path 391" class="cls-3" d="M13.789,62.248A13.783,13.783,0,0,1,0,48.459V13.789A13.784,13.784,0,0,1,13.789,0H48.455A13.784,13.784,0,0,1,62.244,13.789V48.455A13.784,13.784,0,0,1,48.455,62.244H13.789Z" transform="translate(271.435 3840.779) rotate(45)"/>
+  </g>
+</svg>
